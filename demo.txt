@@ -1,2 +1,6 @@
-hello£¬demo
-helleworld
+<<<<<<< HEAD
+hello,demo
+hello,world
+=======
+hello.dh
+>>>>>>> dh
